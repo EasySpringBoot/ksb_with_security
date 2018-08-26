@@ -1,12 +1,20 @@
-# ksb_with_security
+# Spring Boot 使用 Spring Security 权限安全开发
 
-# AuthenticationManagerConfiguration 
 
-```
-2017-12-04 22:29:16.948  INFO 33915 --- [           main] b.a.s.AuthenticationManagerConfiguration : 
 
-Using default security password: 2edf8866-2eb9-4467-bcff-9c254d3bb91d
 
-2017-12-04 22:29:17.447  INFO 33915 --- [           main] o.s.s.web.DefaultSecurityFilterChain     : Creating filter chain: org.springframework.security.web.util.matcher.AnyRequestMatcher@1, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@51a651c1, org.springframework.security.web.context.SecurityContextPersistenceFilter@72b6832e, org.springframework.security.web.header.HeaderWriterFilter@77db3d02, org.springframework.security.web.authentication.logout.LogoutFilter@38d08cb5, org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilter@4c1d59cd, org.springframework.security.web.authentication.ui.DefaultLoginPageGeneratingFilter@4cffcc61, org.springframework.security.web.authentication.www.BasicAuthenticationFilter@479ac2cb, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@3d9f5016, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@1ec22831, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@173f1614, org.springframework.security.web.session.SessionManagementFilter@23ed382c, org.springframework.security.web.access.ExceptionTranslationFilter@39c85c1a, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@66a53104]
+# 新书上架：《Spring Boot 开发实战》
 
-```
+> — 基于 Kotlin + Gradle + Spring Boot 2.0 的企业级服务端开发实战
+
+
+
+#### [京东下单链接](https://item.jd.com/31178320122.html)
+
+https://item.jd.com/31178320122.html
+
+#### [天猫下单链接](https://detail.tmall.com/item.htm?id=574928877711)
+
+https://detail.tmall.com/item.htm?id=574928877711
+
+![](https://upload-images.jianshu.io/upload_images/1233356-596a64de8adf2b27.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
